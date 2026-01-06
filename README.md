@@ -1,6 +1,6 @@
 # 💬 Chat App CSS Illustration – Frontend Mentor Challenge
 
-## 📌 About the Project
+### 📌 About the Project
 
 This project consists of a **chat app interface illustration**, developed as part of a **Frontend Mentor** challenge.  
 The goal was to recreate the provided design using only **HTML and CSS**, focusing on visual composition, semantic structure, and design accuracy.
